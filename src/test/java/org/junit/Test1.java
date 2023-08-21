@@ -7,6 +7,8 @@ public class Test1 {
 	  	System.out.println("TC1");
 	  	System.out.println("Hi Lavanya:1");
 	  	System.out.println("Hi Lavanya:2");
+	  	System.out.println("Hi Lavanya4 Done:");
+	  	System.out.println("Hi Lavanya4 Done:");
 	  	System.out.println("I understand that i am a third person:");
 
 }
@@ -15,6 +17,7 @@ public class Test1 {
 		System.out.println("TC2");
 		System.out.println("Hi Lavanya:1");
 		System.out.println("Hi Lavanya:2");
+		System.out.println("Hi Lavanya4 Done:");
 		System.out.println("");
 		System.out.println("I understand that i am a third person:");
 }
