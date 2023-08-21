@@ -23,9 +23,6 @@ public class HeadlessBrowser {
 		System.out.println("Hi Kavi:"+title);
 		System.out.println("Hi Vennila:"+title);
 		
-		
-		
 	}
 	
-
 }
